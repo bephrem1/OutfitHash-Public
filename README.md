@@ -5,6 +5,7 @@ A Node.JS Application That Leverages The AWS Product Advertising API To Automati
 **School Year:** Freshman @ University of Maryland (class of 2021) </br>
 
 ## Site Is Live At : https://www.outfithash.com/
+#### Note: The Real GitHub Repo Is Private But This Logs The Site's Journey Up To Launch
 
 **Project Start Date:** 12/7/17 </br>
 **v1.0.0 (Beta) Published:** 12/23/17 </br>
