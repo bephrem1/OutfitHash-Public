@@ -15,6 +15,7 @@ __________________________________________
 **v1.1.0 (Beta) Published - Individual Modules Implemented:** 12/24/17 </br>
 **SSL Certificate Installation Completed:** 12/25/17 </br>
 **v1.2.0 (Stable) Published - BrowserNode Adjustments, UX Refinements, & much more:** 1/1/18 </br>
+**v1.3.0: TBD...been busy so don't know when I'll get back on this site to expand it
 
 #### The Problem:
 Wouldn't it be nice if you could just generate a whole outfit based on one clothing item you *love*. Imagine...with the click of a button getting stylish recommendations based on what article of clothing you enter into the search field (as a URL). Sometimes I just don't have time to look for new clothes or I've worn the same shoes for years and am looking for new ones. *The search is a pain and most of what I get I don't like.* Imagine being able to rapidly randomize outfits so you get exposed to more choices and hence make smarter buying decisions.
