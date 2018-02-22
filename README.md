@@ -2,7 +2,7 @@
 __________________________________________
 A Node.JS Application That Leverages The AWS Product Advertising API To Automatically Generate Full, Relevant, Outfits Given Any Amazon URL </br>
 #### Note: The Real GitHub Repo Is Private But This Logs The Site's Journey Up To Launch.
-#### Site Is Built From Scratch. </br>
+#### Site Is Built From Scratch. I had this idea while walking home from class and didn't think I could build it so I decided to try. This is what I came up with in about 2-3 weeks over winter break.</br>
 
 __________________________________________
 
