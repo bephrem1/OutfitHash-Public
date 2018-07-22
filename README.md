@@ -8,7 +8,7 @@ __________________________________________
 
 **School Year:** Freshman @ University of Maryland (class of 2021) </br>
 
-## Site Is Live At : https://www.outfithash.com/
+~~## Site Is Live At : https://www.outfithash.com/~~ (The site broke since node changed a major version and I've been too busy to come back to fix it. Will be back hopefully?)
 
 **Project Start Date:** 12/7/17 </br>
 **v1.0.0 (Beta) Published:** 12/23/17 </br>
